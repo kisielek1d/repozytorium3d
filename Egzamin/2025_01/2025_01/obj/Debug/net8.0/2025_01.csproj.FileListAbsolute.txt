@@ -1,0 +1,15 @@
+D:\F.C\repozytorium3d\Egzamin\2025_01\2025_01\bin\Debug\net8.0\2025_01.exe
+D:\F.C\repozytorium3d\Egzamin\2025_01\2025_01\bin\Debug\net8.0\2025_01.deps.json
+D:\F.C\repozytorium3d\Egzamin\2025_01\2025_01\bin\Debug\net8.0\2025_01.runtimeconfig.json
+D:\F.C\repozytorium3d\Egzamin\2025_01\2025_01\bin\Debug\net8.0\2025_01.dll
+D:\F.C\repozytorium3d\Egzamin\2025_01\2025_01\bin\Debug\net8.0\2025_01.pdb
+D:\F.C\repozytorium3d\Egzamin\2025_01\2025_01\obj\Debug\net8.0\2025_01.GeneratedMSBuildEditorConfig.editorconfig
+D:\F.C\repozytorium3d\Egzamin\2025_01\2025_01\obj\Debug\net8.0\2025_01.AssemblyInfoInputs.cache
+D:\F.C\repozytorium3d\Egzamin\2025_01\2025_01\obj\Debug\net8.0\2025_01.AssemblyInfo.cs
+D:\F.C\repozytorium3d\Egzamin\2025_01\2025_01\obj\Debug\net8.0\2025_01.csproj.CoreCompileInputs.cache
+D:\F.C\repozytorium3d\Egzamin\2025_01\2025_01\obj\Debug\net8.0\2025_01.sourcelink.json
+D:\F.C\repozytorium3d\Egzamin\2025_01\2025_01\obj\Debug\net8.0\2025_01.dll
+D:\F.C\repozytorium3d\Egzamin\2025_01\2025_01\obj\Debug\net8.0\refint\2025_01.dll
+D:\F.C\repozytorium3d\Egzamin\2025_01\2025_01\obj\Debug\net8.0\2025_01.pdb
+D:\F.C\repozytorium3d\Egzamin\2025_01\2025_01\obj\Debug\net8.0\2025_01.genruntimeconfig.cache
+D:\F.C\repozytorium3d\Egzamin\2025_01\2025_01\obj\Debug\net8.0\ref\2025_01.dll

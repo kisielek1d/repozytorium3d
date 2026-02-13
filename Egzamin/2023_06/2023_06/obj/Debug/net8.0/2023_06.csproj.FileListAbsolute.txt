@@ -1,0 +1,15 @@
+D:\F.C\repozytorium3d\Egzamin\2023_06\2023_06\bin\Debug\net8.0\2023_06.exe
+D:\F.C\repozytorium3d\Egzamin\2023_06\2023_06\bin\Debug\net8.0\2023_06.deps.json
+D:\F.C\repozytorium3d\Egzamin\2023_06\2023_06\bin\Debug\net8.0\2023_06.runtimeconfig.json
+D:\F.C\repozytorium3d\Egzamin\2023_06\2023_06\bin\Debug\net8.0\2023_06.dll
+D:\F.C\repozytorium3d\Egzamin\2023_06\2023_06\bin\Debug\net8.0\2023_06.pdb
+D:\F.C\repozytorium3d\Egzamin\2023_06\2023_06\obj\Debug\net8.0\2023_06.GeneratedMSBuildEditorConfig.editorconfig
+D:\F.C\repozytorium3d\Egzamin\2023_06\2023_06\obj\Debug\net8.0\2023_06.AssemblyInfoInputs.cache
+D:\F.C\repozytorium3d\Egzamin\2023_06\2023_06\obj\Debug\net8.0\2023_06.AssemblyInfo.cs
+D:\F.C\repozytorium3d\Egzamin\2023_06\2023_06\obj\Debug\net8.0\2023_06.csproj.CoreCompileInputs.cache
+D:\F.C\repozytorium3d\Egzamin\2023_06\2023_06\obj\Debug\net8.0\2023_06.sourcelink.json
+D:\F.C\repozytorium3d\Egzamin\2023_06\2023_06\obj\Debug\net8.0\2023_06.dll
+D:\F.C\repozytorium3d\Egzamin\2023_06\2023_06\obj\Debug\net8.0\refint\2023_06.dll
+D:\F.C\repozytorium3d\Egzamin\2023_06\2023_06\obj\Debug\net8.0\2023_06.pdb
+D:\F.C\repozytorium3d\Egzamin\2023_06\2023_06\obj\Debug\net8.0\2023_06.genruntimeconfig.cache
+D:\F.C\repozytorium3d\Egzamin\2023_06\2023_06\obj\Debug\net8.0\ref\2023_06.dll
