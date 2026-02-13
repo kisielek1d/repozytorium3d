@@ -1,12 +1,86 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\F.C\\repozytorium1d\\C#\\",
-  "Documents": [],
+  "WorkspaceRootPath": "D:\\F.C\\repozytorium3d\\C#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\F.C\\repozytorium3d\\C#\\LingPracticalTasksConsoleApp\\Order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LingPracticalTasksConsoleApp\\Order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\F.C\\repozytorium3d\\C#\\LingPracticalTasksConsoleApp\\Task1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LingPracticalTasksConsoleApp\\Task1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\F.C\\repozytorium3d\\C#\\LingPracticalTasksConsoleApp\\Person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LingPracticalTasksConsoleApp\\Person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\F.C\\repozytorium3d\\C#\\LingPracticalTasksConsoleApp\\LingPracticalTasksConsoleApp.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LingPracticalTasksConsoleApp\\LingPracticalTasksConsoleApp.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\F.C\\repozytorium3d\\C#\\LingPracticalTasksConsoleApp\\Order.cs",
+              "RelativeDocumentMoniker": "LingPracticalTasksConsoleApp\\Order.cs",
+              "ToolTip": "D:\\F.C\\repozytorium3d\\C#\\LingPracticalTasksConsoleApp\\Order.cs",
+              "RelativeToolTip": "LingPracticalTasksConsoleApp\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T08:16:21.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\F.C\\repozytorium3d\\C#\\LingPracticalTasksConsoleApp\\Person.cs",
+              "RelativeDocumentMoniker": "LingPracticalTasksConsoleApp\\Person.cs",
+              "ToolTip": "D:\\F.C\\repozytorium3d\\C#\\LingPracticalTasksConsoleApp\\Person.cs",
+              "RelativeToolTip": "LingPracticalTasksConsoleApp\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T12:53:45.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Task1.cs",
+              "DocumentMoniker": "D:\\F.C\\repozytorium3d\\C#\\LingPracticalTasksConsoleApp\\Task1.cs",
+              "RelativeDocumentMoniker": "LingPracticalTasksConsoleApp\\Task1.cs",
+              "ToolTip": "D:\\F.C\\repozytorium3d\\C#\\LingPracticalTasksConsoleApp\\Task1.cs",
+              "RelativeToolTip": "LingPracticalTasksConsoleApp\\Task1.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAF8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T12:49:53.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LingPracticalTasksConsoleApp.cs",
+              "DocumentMoniker": "D:\\F.C\\repozytorium3d\\C#\\LingPracticalTasksConsoleApp\\LingPracticalTasksConsoleApp.cs",
+              "RelativeDocumentMoniker": "LingPracticalTasksConsoleApp\\LingPracticalTasksConsoleApp.cs",
+              "ToolTip": "D:\\F.C\\repozytorium3d\\C#\\LingPracticalTasksConsoleApp\\LingPracticalTasksConsoleApp.cs",
+              "RelativeToolTip": "LingPracticalTasksConsoleApp\\LingPracticalTasksConsoleApp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T12:48:54.238Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\F.C\\repozytorium1d\\C#\\",
+  "WorkspaceRootPath": "D:\\F.C\\repozytorium3d\\C#\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\F.C\\repozytorium1d\\C#\\PracticalTasksConsoleApp\\Styczen2023_1\\Task1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PracticalTasksConsoleApp\\Styczen2023_1\\Task1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\F.C\\repozytorium3d\\C#\\LingPracticalTasksConsoleApp\\LingPracticalTasksConsoleApp\\Task2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LingPracticalTasksConsoleApp\\LingPracticalTasksConsoleApp\\Task2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\F.C\\repozytorium1d\\C#\\PracticalTasksConsoleApp\\PracticalTasksConsoleApp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PracticalTasksConsoleApp\\PracticalTasksConsoleApp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\F.C\\repozytorium3d\\C#\\LingPracticalTasksConsoleApp\\LingPracticalTasksConsoleApp\\Task1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LingPracticalTasksConsoleApp\\LingPracticalTasksConsoleApp\\Task1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Task1.cs",
-              "DocumentMoniker": "D:\\F.C\\repozytorium1d\\C#\\PracticalTasksConsoleApp\\Styczen2023_1\\Task1.cs",
-              "RelativeDocumentMoniker": "PracticalTasksConsoleApp\\Styczen2023_1\\Task1.cs",
-              "ToolTip": "D:\\F.C\\repozytorium1d\\C#\\PracticalTasksConsoleApp\\Styczen2023_1\\Task1.cs",
-              "RelativeToolTip": "PracticalTasksConsoleApp\\Styczen2023_1\\Task1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAANAAAAAAAAAA==",
+              "Title": "Task2.cs",
+              "DocumentMoniker": "D:\\F.C\\repozytorium3d\\C#\\LingPracticalTasksConsoleApp\\LingPracticalTasksConsoleApp\\Task2.cs",
+              "RelativeDocumentMoniker": "LingPracticalTasksConsoleApp\\LingPracticalTasksConsoleApp\\Task2.cs",
+              "ToolTip": "D:\\F.C\\repozytorium3d\\C#\\LingPracticalTasksConsoleApp\\LingPracticalTasksConsoleApp\\Task2.cs",
+              "RelativeToolTip": "LingPracticalTasksConsoleApp\\LingPracticalTasksConsoleApp\\Task2.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-16T15:06:22.842Z",
+              "WhenOpened": "2026-02-13T09:13:58.934Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "PracticalTasksConsoleApp.cs",
-              "DocumentMoniker": "D:\\F.C\\repozytorium1d\\C#\\PracticalTasksConsoleApp\\PracticalTasksConsoleApp.cs",
-              "RelativeDocumentMoniker": "PracticalTasksConsoleApp\\PracticalTasksConsoleApp.cs",
-              "ToolTip": "D:\\F.C\\repozytorium1d\\C#\\PracticalTasksConsoleApp\\PracticalTasksConsoleApp.cs",
-              "RelativeToolTip": "PracticalTasksConsoleApp\\PracticalTasksConsoleApp.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAANAAAAAAAAAA==",
+              "Title": "Task1.cs",
+              "DocumentMoniker": "D:\\F.C\\repozytorium3d\\C#\\LingPracticalTasksConsoleApp\\LingPracticalTasksConsoleApp\\Task1.cs",
+              "RelativeDocumentMoniker": "LingPracticalTasksConsoleApp\\LingPracticalTasksConsoleApp\\Task1.cs",
+              "ToolTip": "D:\\F.C\\repozytorium3d\\C#\\LingPracticalTasksConsoleApp\\LingPracticalTasksConsoleApp\\Task1.cs",
+              "RelativeToolTip": "LingPracticalTasksConsoleApp\\LingPracticalTasksConsoleApp\\Task1.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAuwIIAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-16T15:03:37.174Z",
+              "WhenOpened": "2026-02-13T09:08:21.152Z",
               "EditorCaption": ""
             }
           ]
